@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "create-strapi-app": "^4.7.1",
+    "my-project": "^0.0.1"
+  }
+}
